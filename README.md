@@ -28,6 +28,8 @@ This tutorial provides a comprehensive guide to the post-installation configurat
 - Configure service-level agreements (SLAs) by establishing performance metrics and customer service targets.
 - Set up four help topics that enable customers to easily narrow down their support issues.
 
+<p>
+<p align="center"> 
 <h2>Configuration Steps</h2>
 <img width="773" alt="Step 1 " src="https://github.com/MalikS-Github/post-install-config/assets/173410266/4a4c63f8-0a0f-4eb4-97b6-bf31af6cac46">
 <br />
@@ -163,7 +165,7 @@ Step 12: For Agent 1, under the "Access" tab, assign them to the System Administ
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_f8c57363cdb24bf5a72f7becd018ad21~mv2.png" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img width="574" alt="Level II Support " src="https://github.com/MalikS-Github/post-install-config/assets/173410266/300ddd86-1f1b-411d-a6ac-544dfdfa9cac">
 </p>
 <p>
 Step 13: Keep all permissions under the "Permissions" tab the same, and for teams, add Agent 1 to the Level II Support team.
@@ -184,7 +186,7 @@ Step 14: Add Agent 2 to the Support department with an "Expanded Access" role an
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_dd38ba79bd564a4bb8f4cecb67463b3f~mv2.png" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img width="575" alt="Level 1 Support" src="https://github.com/MalikS-Github/post-install-config/assets/173410266/bd58af37-cd14-47da-bb56-ca5cf334e480">
 </p>
 <p>
 Step 15: Keep all permissions the same and add Agent 2 to the Level I Support team, then click on "Create."
@@ -193,10 +195,11 @@ Step 15: Keep all permissions the same and add Agent 2 to the Level I Support te
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_5b5c19cdb85e418a9fce6be892155a46~mv2.png" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img width="573" alt="JWick" src="https://github.com/MalikS-Github/post-install-config/assets/173410266/73fe3b79-1c7f-4db9-b85c-a035cf0033d5">
 </p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_483bc29a100c48118db222b87db8e1fa~mv2.png" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img width="578" alt="JWick 2" src="https://github.com/MalikS-Github/post-install-config/assets/173410266/06eb03c6-aacf-4849-b544-b29640afc35c">
+
 </p>
 <p>
 Step 16:  Create Agent 3 and choose "Maintenance" as their department, "Senior Administrator" for their role, and no extended access.
@@ -205,7 +208,7 @@ Step 16:  Create Agent 3 and choose "Maintenance" as their department, "Senior A
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_a0890ff0a09e4fe293ae39f52d8e00d3~mv2.png" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img width="574" alt="Level II Support " src="https://github.com/MalikS-Github/post-install-config/assets/173410266/66dbc82e-a0e6-4d60-8cc7-502af83296ef">
 </p>
 <p>
 Step 17: Add Agent 3 to the Level II Support team and click on "Create."
