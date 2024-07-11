@@ -314,7 +314,7 @@ Step 26: Click on "Add new help topic," name it "Business Critical Outage" and t
 <img width="649" alt="Step 45" src="https://github.com/MalikS-Github/post-install-config/assets/173410266/7d9f84c8-e174-4c38-aeb4-b908fdef6a04">
 </p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_f9bafab7ed2e453e9ef2a85784b46ddd~mv2.png" height="80%" width="80%" alt="osTicket: Post-Installation Config"/>
+<img width="572" alt="Password Reset" src="https://github.com/MalikS-Github/post-install-config/assets/173410266/2344f3d7-36b6-444a-ad85-541d501e9778">
 </p>
 <p>
 Step 27: Add three more help topics with the following names:
